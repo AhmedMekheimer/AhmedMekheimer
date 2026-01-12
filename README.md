@@ -6,19 +6,13 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;Backend%20Developer%20%7C%20.NET%20%7C%20MERN%20Stack;Building%20solutions%20that%20make%20an%20impact!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=19">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;Software%20Developer%20%7C%20.NET%20%7C%20MERN%20Stack;Building%20solutions%20that%20make%20an%20impact!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=19">
   </a>
 </p> 
 
 ---
 
-💻 I'm a **Backend Developer** passionate about turning complex systems into simple, efficient digital solutions.  
-My journey started with **C++** and problem-solving, which built my foundation in writing scalable, clean code.  
-Later, I transitioned into **.NET backend development**, where I built applications like a **Stock Management & POS System** that streamlined retail operations — from inventory tracking to real-time sales and PDF receipts.
-
-🚀 Currently, I’m advancing my expertise through **NTI’s Open-Source Applications Development Scholarship**, mastering the **MERN stack** to create modern, full-stack web apps.
-
-I love building software that truly helps people — simplifying processes, improving user experience, and creating real impact.
+I'm a **Junior Software Developer** with hands-on experience in .NET and MERN stacks. Experienced in architecting applications using both relational and NoSQL databases. Proficient in Docker containerization and Git-based collaboration to streamline development-to-deployment workflows. 
 
 ---
 
@@ -30,14 +24,13 @@ I love building software that truly helps people — simplifying processes, impr
 
 ### 🛠 &nbsp;Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
