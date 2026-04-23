@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **Junior Software Developer** with hands-on experience in .NET and MERN stacks. Experienced in architecting applications using both relational and NoSQL databases. Proficient in Docker containerization and Git-based collaboration to streamline development-to-deployment workflows. 
+I'm a **Full-Stack Developer** with hands-on experience in .NET and MERN stacks. Experienced in architecting applications using both relational and NoSQL databases. Proficient in Docker containerization and Git-based collaboration to streamline development-to-deployment workflows. 
 
 ---
 
